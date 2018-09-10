@@ -12,17 +12,16 @@ Como todos preguntan "K sus Terrmuz"
 Bueno *Termux* es un emulador de terminal linux para android... lo mismo q en la pc pero mas barato.... [Termux estara en la play store (gratis)]
 
 Hay q tener un combo :u [Nulled Foro para Descargar combos] (deben de registrarse y ya)
-Tambn el File explorer :3 para extraer. 
 
 Una ves descargado TERMUX y el CHECKER de Spotify y el COMBO hay q actualizar paquetes... De Termux
 Y darle permiso a termux en nuestro terminal :v
 
-A los q no les pide acrualiza paquetes ponen directo el 2do comando y aceptar. 
+A los q no les pide actualizaz paquetes ponen directo el 2do comando y aceptar (enter). 
 1. apt update&&apt upgrade -y
 
 2. termux-setup-storage
 
-INSTALAMOS PHP y GIT para ejecutar el archivo q esta en la carpeta de spotify..
+INSTALAMOS PHP y GIT para ejecutar el archivo q esta en la carpeta de spotichk..
 
 3. pkg install php git -y
 
