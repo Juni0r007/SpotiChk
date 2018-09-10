@@ -16,7 +16,7 @@ Hay q tener un combo :u [Nulled Foro para Descargar combos] (deben de registrars
 Una ves descargado TERMUX y el CHECKER de Spotify y el COMBO hay q actualizar paquetes... De Termux
 Y darle permiso a termux en nuestro terminal :v
 
-A los q no les pide actualizaz paquetes ponen directo el 2do comando y aceptar (enter). 
+A los q no les pide actualizar paquetes ponen directo el 2do comando y aceptar (enter). 
 1. apt update&&apt upgrade -y
 
 2. termux-setup-storage
