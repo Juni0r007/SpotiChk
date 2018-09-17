@@ -26,8 +26,7 @@ INSTALAMOS PHP y GIT para ejecutar el archivo q esta en la carpeta de spotichk..
 
 3. pkg install php git -y
 
-4. git clone
-https://github.com/Juni0r007/SpotiChk.git
+4. git clone https://github.com/Juni0r007/SpotiChk.git
 
 5. ls
 
