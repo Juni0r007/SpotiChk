@@ -39,6 +39,7 @@ Antes de eso hay q darle permiso
 7. chmod +x spotichk.php
 
 8. php spotichk.php
+
 Les sale el Checker de spotify
 
 Ahi lo unico q se debe Hacer es poner La ruta completa del Combo q estara en la carpeta de Download 
