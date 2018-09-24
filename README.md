@@ -45,7 +45,8 @@ Les sale el Checker de spotify
 Ahi lo unico q se debe Hacer es poner La ruta completa del Combo q estara en la carpeta de Download 
 > Se van con el Es File hasta donde esta en combo y presionan un rato sobre el archivo -> Propiedades -> Copiar ruta completa y se van a termux y pegan esa ruta.
 
-Y lo pegan y empesara el testeo nada mas y esperar a q les bote una premiun.[Autopay]
+Y lo pegan y empezara el testeo nada mas y esperar a q les bote una premiun.[Autopay]
+No es necesario utilizar proxys ni una vpn activa.
 
 ¿Que es una cuenta Auto Pagable o AutoPay? 
 
