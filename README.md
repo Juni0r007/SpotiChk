@@ -1,4 +1,4 @@
-# Spotichk v5.0
+# SpotiChk v5.0
 
 ## Introducción
 
