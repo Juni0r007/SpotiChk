@@ -4,7 +4,7 @@
 
 Checkea cuentas de Spotify desde tu celular.
 
-##Novedades
+## Novedades
 > - API cambiada.
 > - Mejora en la velocidad de checkeo.
 > - Guardado de cuentas en un archivo *.txt.
