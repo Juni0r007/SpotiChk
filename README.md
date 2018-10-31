@@ -18,7 +18,7 @@ Checker De SPOTIFY [TERMUX]
 Como todos preguntan "¿Qué es Termux?"
 Bueno *Termux* es un emulador de terminal linux para android... lo mismo q en la pc pero mas barato.... [Termux está en la play store (gratis)]
 
-Hay q tener un combo [Nulled Foro (o otros foros/paginas) para Descargar combos] (deben de registrarse y ya)
+Hay que tener un combo [Nulled Foro (o otros foros/paginas) para Descargar combos] (deben de registrarse y ya)
 Tambien el Es File Explorer para encontrar la ruta del archivo.
 
 Una ves descargado TERMUX y el CHECKER de Spotify y el COMBO hay que actualizar paquetes... De Termux
