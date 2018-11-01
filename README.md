@@ -51,12 +51,12 @@ Antes de eso hay que darle permisos de ejecución al script
 
 Les sale el Checker de spotify
 
-Si descargaron el combo, ahi lo unico q se debe hacer es poner la ruta completa del COMBO q estara en la carpeta de Download 
+Si descargaron el combo, ahi lo unico que se debe hacer es poner la ruta completa del COMBO q estara en la carpeta de Download 
 > Van con el Es File hasta donde esta en combo y presionan un rato sobre el archivo -> Propiedades -> Copiar ruta completa y se van a termux y pegan esa ruta.
 
 Y lo pegan, empezara el checkeo  y esperar a que les muestre una premiun.[Autopay].
 
-> Una vez terminado el proceso de chekeo o cuando cancele manualmente el checkeo, el script le pedira si quiere guardar las cuentas obtenidas en un archivo de texto (dentro de su memoria interna) si quiere guardar escriba la letra "s" y consiguiente escriba solo el nombre el archivo a crear, de lo contrario solo escriba la letra "n".
+> Una vez terminado el proceso de chekeo o cuando cancele manualmente el mismo, el script le pedira si quiere guardar las cuentas obtenidas en un archivo de texto (dentro de su memoria interna) si quiere guardar escriba la letra "s" y consiguiente escriba solo el nombre el archivo a crear, de lo contrario solo escriba la letra "n".
 
 No es necesario utilizar proxys ni una vpn activa.
 
