@@ -51,6 +51,8 @@ Antes de eso hay que darle permisos de ejecución al script
 
 Les sale el Checker de spotify
 
+## Uso
+
 Si descargaron el combo, ahi lo unico que se debe hacer es poner la ruta completa del COMBO que estará en la carpeta de Download 
 > Van con el Es File hasta donde esta en combo y presionan un rato sobre el archivo -> Propiedades -> Copiar ruta completa y se van a termux y pegan esa ruta.
 
