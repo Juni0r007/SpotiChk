@@ -18,7 +18,7 @@ Tenemos un grupo en facebook... Link: https://www.facebook.com/groups/3036346135
 Checker De SPOTIFY [TERMUX]
 
 Como todos preguntan "¿Qué es Termux?"
-Bueno *Termux* es un emulador de terminal linux para android... lo mismo q en la pc pero mas barato.... [Termux está en la play store (gratis)]
+Bueno *Termux* es un emulador de terminal linux para android... lo mismo que en la pc pero mas barato.... [Termux está en la play store (gratis)]
 
 Hay que tener un combo [Nulled Foro (o otros foros/paginas) para Descargar combos] (deben de registrarse y ya)
 Tambien el Es File Explorer para encontrar la ruta del archivo.
