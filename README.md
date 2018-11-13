@@ -67,3 +67,7 @@ No es necesario utilizar proxys ni una vpn activa.
 ¿Que es una cuenta Auto Pagable o AutoPay? 
 
 Son cuentas  obtenidas con Sentry MBA y PasteBin [Termux pero no todas] en si estas son 100% reales por lo cual las paga una persona y si cambias la contraseña el dueño va cancelar la cuenta.
+
+## Anexos
+
+- Generador de combos en Termux > https://github.com/Juni0r007/PasTerm.git
