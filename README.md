@@ -4,7 +4,7 @@
 
 Checkea cuentas de Spotify desde tu celular. Este proyecto tiene fines educativos y/o demostrativos.
 
-Tenemos un grupo en facebook > https://www.facebook.com/groups/491341894676273
+Tenemos un grupo en facebook > https://www.facebook.com/groups/415312355674056
 
 Video de instalacion > https://www.youtube.com/watch?v=pzISUIWEuMw
 
